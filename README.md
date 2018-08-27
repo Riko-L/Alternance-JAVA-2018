@@ -6,14 +6,24 @@
 *	Renforcer les compétences acquises lors du premier module Java, et valider les compétences non validées
 *	Apprendre les bases du Framework JEE
 
+# 2  Contraintes
+*	Eclipse
+*	Tomcat
+*	MySQL
 
-# 2.  Sujet - Location de véhicule
+# 3.  Sujet - Location de véhicule
 Dans le cadre de l’automatisation et de l’informatisation de ses process, la société VehicleRental cherche à développer un système permettant la gestion de leur flotte de véhicule ainsi que de permettre à leurs clients de réserver un véhicule en ligne. Vous êtes en charge de la conception ainsi que de la réalisation de ce système. Dans ce but un premier intervenant a déjà réalisé le recueil des besoins et défini les différentes use cases. Il a également choisi la technologie pour la réalisation du projet et mis en place l’architecture applicative. Ainsi la société VehicleRental recherche un développeur JAVA, avec de bonnes notions du framework JEE. Débutants acceptés :) .
 
 Après un entretien pour le poste que vous avez réussi avec brio (félicitations), vous convenez avec le client de développer son application en utilisant la méthode agile. Il est donc convenu de réaliser le projet en 6 itérations. Cependant les délais étant un peu court les deux dernières représentent le ‘nice-to-have’. Pour chaque itérations, le client vous a fourni le use à développer ainsi que les différentes règles métiers à respecter.
 
 Le précédent intervenant a déjà mis en place l’architecture du code et réaliser un POC (proof of concept) validant ses choix. Ce POC réalise l’affichage de liste des clients. Il pourrait être utile de vous en inspirer pour réaliser les prochaines itérations.
-# 3.  Spécifications
+
+# 4.  Modalités
+
+Le projet s'effectue en binome. Chaque binome sera en charge de rendre un seul livrable.
+Le but est de trouver une manière efficace de se répartir le travail pour permettre de réaliser chaque use case.
+
+# 5.  Spécifications
 
 # Itération 1 : Lister les véhicules
 
