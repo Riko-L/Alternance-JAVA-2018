@@ -5,6 +5,15 @@
 # 1.  Objectifs
 *	Renforcer les compétences acquises lors du premier module Java, et valider les compétences non validées
 *	Apprendre les bases du Framework JEE
+*	compétences JEE:
+	*	Utilisation d'une Servlet
+	*	Créer une page JSP
+	*	Contrôler les données d'un formulaire
+	*	Utilisation de la JSTL
+	*	Utilisation de EL
+	*	Utilisation de JDBC
+	*	Sécuriser l'accès à l'application via l'authentification
+	*	Savoir mettre en oeuvre des javaBeans
 
 # 2  Contraintes
 *	Eclipse
