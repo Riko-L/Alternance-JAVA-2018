@@ -125,8 +125,7 @@ Il faudra également produire une démonstration du use case.
 
 # Ressources
 
-Tuto open classroom : https://openclassrooms.com/fr/courses/626954-creez-votre-application-web-avec-java-ee
-Vidéo : https://www.youtube.com/watch?v=jevdND1NBVs&list=PLepmdz3mDsCpOcLtmn3r8UKfsjGSeDmma&index=1
-
-Documentation oracle : https://docs.oracle.com/javaee/5/tutorial/doc/docinfo.html (attention à ne pas se perdre,  tout n’est pas utilisé dans le TP)
+*	Tuto open classroom : https://openclassrooms.com/fr/courses/626954-creez-votre-application-web-avec-java-ee
+*	Vidéo : https://www.youtube.com/watch?v=jevdND1NBVs&list=PLepmdz3mDsCpOcLtmn3r8UKfsjGSeDmma&index=1
+*	Documentation oracle : https://docs.oracle.com/javaee/5/tutorial/doc/docinfo.html (attention à ne pas se perdre,  tout n’est pas utilisé dans le TP)
 
